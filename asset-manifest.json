@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ayushvishwakarma04/Reword/static/css/main.dc4d6ff2.css",
+    "main.js": "/Ayushvishwakarma04/Reword/static/js/main.aca999f4.js",
+    "static/js/453.0f29bc36.chunk.js": "/Ayushvishwakarma04/Reword/static/js/453.0f29bc36.chunk.js",
+    "index.html": "/Ayushvishwakarma04/Reword/index.html",
+    "main.dc4d6ff2.css.map": "/Ayushvishwakarma04/Reword/static/css/main.dc4d6ff2.css.map",
+    "main.aca999f4.js.map": "/Ayushvishwakarma04/Reword/static/js/main.aca999f4.js.map",
+    "453.0f29bc36.chunk.js.map": "/Ayushvishwakarma04/Reword/static/js/453.0f29bc36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.aca999f4.js"
+  ]
+}
